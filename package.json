@@ -1,0 +1,27 @@
+{
+  "name": "karma-nej",
+  "version": "0.0.1",
+  "description": "karma runner for nej framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeteaseWD/karma-nej.git"
+  },
+  "keywords": [
+    "karma-runner",
+    "karma",
+    "nej"
+  ],
+  "author": "leeluolee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeteaseWD/karma-nej/issues"
+  },
+  "homepage": "https://github.com/NeteaseWD/karma-nej#readme",
+  "dependencies": {
+    "glob": "^6.0.4"
+  }
+}
